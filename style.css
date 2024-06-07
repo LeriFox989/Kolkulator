@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+.countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial', sans-serif;
+  }
+   
+  .countdown-item {
+    margin: 0 10px;
+    padding: 0 10px;
+    text-align: center;
+    background-color: rgba(215, 24, 135, 0.5);
+    border-radius: 20%;
+  }
+   
+  .countdown-item span {
+    display: block;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-family: "Dancing Script", cursive;
+  }
+   
+  .label {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-family: "Dancing Script", cursive;
+  }
+  
+  header{
+    font-size: 40px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  body{
+    background-image: url(kiss.jpg);
+    background-size:contain;
+    background-size:cover;
+    padding: 50px;
+  }
+  .count{
+    background-color: rgba(234, 0, 66, 0.6);
+    border-radius: 20%;
+    padding: 20px;
+  }
+  
